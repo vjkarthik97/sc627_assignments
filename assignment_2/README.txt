@@ -1,1 +1,1 @@
-Please run MainScript.m
+Please run potential_function_planner.m
